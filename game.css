@@ -1,0 +1,74 @@
+#main
+{
+    border: 2px solid #b7e4c7;
+    height: 300px;
+    width: 300px;
+    padding: 2px;
+    margin-left: 475px;
+
+}
+p
+{
+    color:darkgreen;
+}
+.pwin
+{
+    color: red;
+    font-size:x-large;
+    text-decoration: solid;
+}
+#win
+{
+    height: 30px;
+    width: 100px;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+body
+{
+    text-align: center;
+    background-color: #b7e4c7;
+}
+.box
+{
+    font-size: 50px;
+    color: black;
+    background-color: #efe9ae;
+    margin-top: 5px;
+    text-align:center;
+    height: 32.8%;
+    width: 32%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#reset
+{
+    height: 30px;
+    width: 80px;
+    margin-top: 40px;
+    border-radius: 4px;
+}
+.finish
+{
+    font-size: 50px;
+    color: black;
+    margin-top: 5px;
+    text-align:center;
+    height: 32.8%;
+    width: 32%;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: red;
+}
+.X{
+    color: brown;
+}
+.O
+{
+    color: darkgoldenrod;
+}
+.draw{
+    color:black;
+    background-color: azure;
+}
